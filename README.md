@@ -7,4 +7,3 @@ For more details, please refer to
 
 2.Wang, J., Bai, X., You, X., Liu, W., Latecki, L.J., Shape Matching and Classification Using Height Functions, Pattern Recognition Letters (PRL), 2012, 33(2):134-143.
 
-3.http://mc.eistar.net/~xbai/
